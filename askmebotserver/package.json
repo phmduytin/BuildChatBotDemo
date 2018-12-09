@@ -1,0 +1,17 @@
+{
+  "name": "askmebotserver",
+  "version": "1.0.0",
+  "description": "AskMe chat Bot - Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DuyTien",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.15",
+    "node-rest-client": "^3.1.0",
+    "request": "^2.88.0"
+  }
+}
